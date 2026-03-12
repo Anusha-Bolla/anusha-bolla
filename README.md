@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi I'm Anusha Bolla
 
-<!--
-**Anusha-Bolla/anusha-bolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer with 4+ years of experience building scalable enterprise applications using Java, Spring Boot, Microservices, and React.js.
 
-Here are some ideas to get you started:
+ Fairfax, Virginia  
+ anushae3773@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring MVC
+- Microservices
+- REST APIs
+- Hibernate
+- JPA
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda)
+- Docker
+- Jenkins
+- GitHub Actions
+- Maven
+- Gradle
+
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+---
+
+## 💻 Featured Projects
+
+### Online Student Management System
+Spring Boot + React application for managing student records, authentication, and course information.
+
+### Gym Membership Management System
+Spring MVC application to manage gym memberships, trainers, and personalized fitness plans.
+
+### Employee Task Management Microservices
+Microservice architecture application built using Spring Boot and REST APIs.
+
+---
+
+## 🔗 Links
+
+Portfolio  
+https://anushab1237.wixsite.com/anushab
+
+LinkedIn  
+https:/www.linkedin.com/in/anusha-b-4671043a2?
+
+---
+
+⭐ Always learning new technologies and building scalable backend systems.
