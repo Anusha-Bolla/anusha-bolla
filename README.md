@@ -41,7 +41,7 @@ Java Full Stack Developer with 4+ years of experience building scalable enterpri
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
 ### Online Student Management System
 Spring Boot + React application for managing student records, authentication, and course information.
@@ -64,4 +64,4 @@ https:/www.linkedin.com/in/anusha-b-4671043a2?
 
 ---
 
-⭐ Always learning new technologies and building scalable backend systems.
+ Always learning new technologies and building scalable backend systems.
